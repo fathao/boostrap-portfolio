@@ -1,0 +1,25 @@
+@media screen and (max-width: 640px) {
+navbar-header{
+	text-align: center;
+	float-left;
+	background-color: red;
+
+}
+nav {
+  	text-align: center;
+    margin: 0px auto;
+    float:none;
+    background-color: red;
+}
+
+nav a {
+  display: inline-block;
+  padding-left: 15px;
+  margin-left: 15px;
+  line-height: 18px;
+  color: #999;
+  text-decoration: none;
+  border-left: 1px solid #efefef;
+}
+
+}
